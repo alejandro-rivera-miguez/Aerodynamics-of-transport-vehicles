@@ -3,7 +3,7 @@
 [![OpenFOAM](https://img.shields.io/badge/Simulated_with-OpenFOAM-blue.svg)](https://www.openfoam.com/)
 [![CATIA](https://img.shields.io/badge/Modeled_in-CATIA-orange.svg)](https://www.3ds.com/products-services/catia/)
 [![ParaView](https://img.shields.io/badge/Postprocessing-ParaView-green.svg)](https://www.paraview.org/)
-[![University](https://img.shields.io/badge/Politecnico-di%20Milano-blue.svg)](https://www.polimi.it/)
+[![Academic](https://img.shields.io/badge/University-Politecnico%20di%20Milano-blue.svg)](https://www.polimi.it/)
 
 Comprehensive Computational Fluid Dynamics (CFD) study investigating the aerodynamic impact of different rear wing attachment configurations on a **Tesla Model S**. 
 
